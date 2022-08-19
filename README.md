@@ -1,11 +1,13 @@
 # Takeoff Test App
 
-Tools: React.js, Redux + ToolKit, TypeScript, JSON-server
+Tools: React.js, Redux + ToolKit, TypeScript, JSON-server \
 Node version - v16.13.0
 
 ## Access data
-login: admin
+
+login: admin \
 password: 1234
+
 
 ## Scripts
 
@@ -17,12 +19,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm run dev`
 
-Run only ReactApp in the development mode.
+Runs only ReactApp in the development mode.
 
 
 ### `npm run server`
 
-Run only JSON-server in [http://localhost:3001](http://localhost:3001).
+Runs only JSON-server in [http://localhost:3001](http://localhost:3001).
 
 
 ### `npm run build`
