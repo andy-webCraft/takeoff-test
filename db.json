@@ -1,0 +1,44 @@
+{
+  "auth": {
+    "login": "admin",
+    "password": "1234"
+  },
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Ivan Vanya",
+      "email": "ivan@mail.com",
+      "phone": "89995678439"
+    },
+    {
+      "id": 2,
+      "name": "Denis Truev",
+      "email": "sergey@mail.com",
+      "phone": "85863574255"
+    },
+    {
+      "id": 3,
+      "name": "Artem Rokirin",
+      "email": "denis@mail.com",
+      "phone": "87956437207"
+    },
+    {
+      "id": 4,
+      "name": "Oleg Fedov",
+      "email": "oleg@mail.com",
+      "phone": "8997080065"
+    },
+    {
+      "id": 5,
+      "name": "John Smith",
+      "email": "ivatrtrtn@mail.com",
+      "phone": "89944457443"
+    },
+    {
+      "id": 6,
+      "name": "Test",
+      "email": "test@ru.ru",
+      "phone": "43783535456"
+    }
+  ]
+}

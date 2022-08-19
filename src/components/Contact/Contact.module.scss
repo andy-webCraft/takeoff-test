@@ -1,0 +1,37 @@
+.wrapper {
+  max-width: 660px;
+  display: flex;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px 0;
+}
+.info {
+  max-width: 300px;
+  width: 100%;
+  & > p {
+    padding: 7px 0;
+  }
+  & > Button {
+    margin-top: 7px;
+  }
+}
+.actions {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: -15px;
+  & > * {
+    margin-right: 15px;
+  }
+}
+.action {
+  font-size: 20px;
+  color: #5c6e8e;
+  &:last-of-type {
+    margin-right: 40px;
+  }
+}
+.icon {
+  margin-left: 6px;
+}
